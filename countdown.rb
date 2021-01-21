@@ -2,7 +2,7 @@
 x = 10 
 def countdown
   while x > 0 && x < 11
-  puts "#{x}!"
   -= 1
+  puts "#{x}!"
 end
 end
