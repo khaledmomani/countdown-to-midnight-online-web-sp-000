@@ -13,7 +13,6 @@ end
 def countdown_with_sleep(x)
 case
 when x -= 1
-  sleep.
+  sleep(1.second)
 end
-
 end
