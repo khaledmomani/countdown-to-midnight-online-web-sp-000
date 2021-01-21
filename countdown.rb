@@ -9,3 +9,11 @@ while x > 1
   return "HAPPY NEW YEAR!"
 end
 end
+
+def countdown_with_sleep(x)
+case
+when x -= 1
+  sleep.
+end
+
+end
